@@ -1,0 +1,164 @@
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\ApplicationInsights.config
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\csc.exe
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Collections.Immutable.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Reflection.Metadata.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\vbc.exe
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\VBCSCompiler.exe
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\roslyn\VBCSCompiler.exe.config
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll.config
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.pdb
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.Agent.Intercept.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.DependencyCollector.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.Web.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.WindowsServer.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.ApplicationInsights.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Web.Infrastructure.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Owin.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\WebGrease.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.DependencyCollector.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.Web.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.WindowsServer.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.ApplicationInsights.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.pdb
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\C#\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.csprojResolveAssemblyReference.cache
+I:\C#\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.dll
+I:\C#\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.pdb
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\ApplicationInsights.config
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\csc.exe
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\vbc.exe
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll.config
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.pdb
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Owin.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\WebGrease.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.csprojResolveAssemblyReference.cache
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.dll
+C:\Users\Izzad Rasyidi\Desktop\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.pdb
